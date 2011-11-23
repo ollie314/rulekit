@@ -1,8 +1,6 @@
-// stdafx.h : include file for standard system include files,
-// or project specific include files that are used frequently, but
-// are changed infrequently
+//
+//  Copyright (c) 2011 Codesign LLC. All rights reserved.
+//  License: GPL v3
 //
 
 #pragma once
-
-// TODO: reference additional headers your program requires here
