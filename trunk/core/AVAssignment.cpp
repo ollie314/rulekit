@@ -1,3 +1,8 @@
+//
+//  Copyright (c) 2011 Codesign LLC. All rights reserved.
+//  License: GPL v3
+//
+
 #include "stdafx.h"
 #include "AVAssignment.h"
 #include "AVMatrix.h"

@@ -1,9 +1,6 @@
 //
-//  Tokenizer.h
-//  NLParser Test
-//
-//  Created by Petr Homola on 10/16/11.
-//  Copyright (c) 2011 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2011 Codesign LLC. All rights reserved.
+//  License: GPL v3
 //
 
 #ifndef NLParser_Test_Tokenizer_h
